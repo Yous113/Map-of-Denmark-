@@ -1,0 +1,1 @@
+To run a map please put the .osm or .osm.zip file in this directory and run the App class :D
